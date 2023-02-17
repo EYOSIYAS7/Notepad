@@ -1,0 +1,23 @@
+.root {
+-fx-background-color:whitesmoke;
+}
+.label {
+-fx-text-fill : #101010;
+-fx-font-size :16px;
+}
+.intro{
+-fx-font-size :25px;
+-fx-padding:20px 0px;
+-fx-font-weight:bold;
+-fx-text-fill : linear-gradient(rgb(150, 209, 255),rgb(182, 71, 246));
+}
+.layout2{
+-fx-background-color:rgb(150, 209, 255);
+}
+.button {
+-fx-background-color:linear-gradient(rgb(150, 209, 255),rgb(182, 71, 246));
+-fx-padding:5px 15px;
+-fx-margin-top:10px;
+-fx-font-size :11pt;
+-fx-text-fill:whitesmoke;
+}
