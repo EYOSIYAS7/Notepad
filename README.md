@@ -1,2 +1,2 @@
-# Notpad
-Notpad application by javafx
+# Notepad
+Notepad application by javafx
